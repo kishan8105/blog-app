@@ -18,7 +18,7 @@ const app = express();
 // cors: allows the React frontend (port 5173) to talk to this
 //       backend (port 5000) without browser blocking it.
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: 'https://blog-app-1-0g0o.onrender.com',
   credentials: true
 }));
 
