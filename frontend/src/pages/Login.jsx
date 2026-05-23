@@ -48,7 +48,7 @@ const Login = () => {
             <div className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-nebula-500/15 mb-4">
               <RiSparklingLine className="text-3xl text-nebula-500" />
             </div>
-            <h1 className="font-display text-3xl font-bold text-stone-800 mb-2">Welcome Back</h1>
+            <h1 className="font-display text-3xl font-bold text-stone-800 mb-2">Welcome To Kishan's Blog</h1>
             <p className="text-stone-500 text-sm">Sign in to continue your cosmic journey</p>
           </div>
 
