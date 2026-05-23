@@ -9,7 +9,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: ' https://blog-app-dphj.onrender.com',  // backend URL
+  baseURL: ' https://blog-app-dphj.onrender.com/api',  // backend URL
   headers: { 'Content-Type': 'application/json' },
 });
 
